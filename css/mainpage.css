@@ -56,7 +56,6 @@ nav a
 {
     font-size: 0.9rem;
     color: white;
-    margin-left: 1.5rem;
     margin-right: 0.4rem;
     font-weight: 500;
     transition: 0.3s ease;
@@ -254,7 +253,7 @@ span
 @keyframes words
 {
     0%, 20%{
-        content: "First Year IT Student";
+        content: "Student";
     }
     21%, 40%{
         content: "Software Engineer";
